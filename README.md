@@ -8,6 +8,9 @@ The monitor is built around a 4 digit seven segment display (with automatic dimm
 
 In practice, this project can serve as a generic platform for any i2c module that might benefit from a 4 digit display. Potentially, other projects could be built around this architecture.
 
+There is a BOM included: the total cost per unit, as of when it was made in early 2025, was ~90 USD.
+Most of the cost comes from the SCD-40 module used -- directly integrating one of the modules onto the board should lower that price.
+
 A rough block diagram is below:
 
 ![image](https://github.com/user-attachments/assets/981d0c5c-de65-40db-af4a-f3157fbf6a07)
