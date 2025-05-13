@@ -1,0 +1,26 @@
+﻿Reference,Value,Datasheet,Footprint,Qty,DNP,stock_idx,Digikey,price per,
+J2,Conn_02x03_Odd_Even,~,Connector_PinHeader_2.54mm:PinHeader_2x03_P2.54mm_Vertical,1,,1,,,
+JP1,3v3_or,~,Jumper:SolderJumper-2_P1.3mm_Open_Pad1.0x1.5mm,1,,1,,,
+C9,10u,~,Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,1,,1,https://www.digikey.com/en/products/detail/samsung-electro-mechanics/CL21A106KOQNNNE/3886754 ,0.08,0.08
+"C3,C10",0.1u,~,Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,2,,2,https://www.digikey.com/en/products/detail/yageo/CC0805KRX7R9BB104/302874,0.08,0.16
+"C4,C5,C6,C7,C8",100n,~,Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,5,,11,https://www.digikey.com/en/products/detail/samsung-electro-mechanics/CL21B104KBCNFNC/3888102,0.1,0.5
+U1,ATmega328P-A,http://ww1.microchip.com/downloads/en/DeviceDoc/ATmega328_P%20AVR%20MCU%20with%20picoPower%20Technology%20Data%20Sheet%2040001984A.pdf,Package_QFP:TQFP-32_7x7mm_P0.8mm,1,,25,https://www.digikey.com/en/products/detail/microchip-technology/ATMEGA328P-AUR/2357086,2.74,2.74
+Y1,16MHz,~,inv_footprints:XTAL_ECS-160-18-23A-EN-TR,1,,28,https://www.digikey.com/en/products/detail/ecs-inc/ECS-160-18-23A-EN-TR/2213741,0.86,0.86
+U2,~,,inv_footprints:scd_40,1,,34,https://www.digikey.com/en/products/detail/adafruit-industries-llc/5187/15194668,44.95,44.95
+Q3,2N3904,https://www.onsemi.com/pub/Collateral/2N3903-D.PDF,Package_TO_SOT_THT:TO-92_Inline,1,,36,https://www.digikey.com/en/products/detail/onsemi/2N3904BU/1413,0.28,0.28
+R7,R_Photo,~,OptoDevice:R_LDR_5.1x4.3mm_P3.4mm_Vertical,1,,38,https://www.digikey.com/en/products/detail/advanced-photonix/PDV-P9008/480625,1.49,1.49
+U3,MAX7221xNG,https://datasheets.maximintegrated.com/en/ds/MAX7219-MAX7221.pdf,Package_DIP:DIP-24_W7.62mm_Socket,1,,39,https://www.digikey.com/en/products/detail/analog-devices-inc-maxim-integrated/MAX7219ENG/774127,18.67,18.67
+"Q1,Q2",2N3906,https://www.onsemi.com/pub/Collateral/2N3906-D.PDF,Package_TO_SOT_THT:TO-92_Inline,2,,40,https://www.digikey.com/en/products/detail/onsemi/2N3906BU/1414,0.27,0.54
+SW1,SW_Push,~,inv_footprints:SKQGADE010,1,,44,https://www.digikey.com/en/products/detail/c-k/RS-187R05A2-DS-MT-RT/2747186,0.72,0.72
+"LED1,LED2,LED3,LED4",LDS-C814RI,LDS-C814RI,inv_footprints:LDS-C814RI_LUM,4,,50,https://www.digikey.com/en/products/detail/lumex-opto-components-inc/LDS-C814RI/252593,2.25,9
+"R1,R6",10k,~,Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,2,,51,https://www.digikey.com/en/products/detail/yageo/RC0805FR-0710KL/727535,0.14,0.28
+"R4,R8,R10,R11,R12",100k,~,Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,5,,54,https://www.digikey.com/en/products/detail/yageo/RC0805FR-07100KL/727544,0.1,0.5
+R5,1k,~,Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,1,,56,https://www.digikey.com/en/products/detail/yageo/RC0805FR-071KL/727444,0.1,0.1
+"R2,R3",5.1k,~,Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,2,,60,https://www.digikey.com/en/products/detail/panasonic-electronic-components/ERJ-6GEYJ512V/46122,0.1,0.2
+"C1,C2",18p,~,Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,2,,64,https://www.digikey.com/en/products/detail/kemet/C0805C180M3HACTU/7949065,0.1,0.2
+R9,22k,~,Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,1,,65,https://www.digikey.com/en/products/detail/stackpole-electronics-inc/RMCF0805FT22K1/1760211,0.1,0.1
+U4,MIC5205-5.0YM5,http://ww1.microchip.com/downloads/en/DeviceDoc/20005785A.pdf,Package_TO_SOT_SMD:SOT-23-5,1,,66,https://www.digikey.com/en/products/detail/microchip-technology/MIC5205-5-0YM5-TR/771730 ,0.54,0.54
+U5,MIC5366-3.3YC5,http://ww1.microchip.com/downloads/en/DeviceDoc/mic5365.pdf,Package_TO_SOT_SMD:SOT-353_SC-70-5,1,,67,https://www.digikey.com/en/products/detail/microchip-technology/MIC5366-3-3YC5-TR/1868116 ,0.12,0.12
+"C11,C12,C13,C14,C15",1u,~,Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,5,,-- mixed values --,-- mixed values --,#N/A,#N/A
+"J1,J3",Conn_01x02,~,-- mixed values --,2,,-- mixed values --,-- mixed values --,#N/A,#N/A
+TOTAL,,,,,,,,,82.03

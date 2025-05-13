@@ -1,0 +1,3 @@
+[submodule "kicad-common-libs"]
+	path = kicad-common-libs
+	url = https://github.com/morzack/kicad-common-libs.git

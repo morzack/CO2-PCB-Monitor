@@ -9493,6 +9493,15 @@
 				(hide yes)
 			)
 		)
+		(property "Digikey" "https://www.digikey.com/en/products/detail/ecs-inc/ECS-160-18-23A-EN-TR/2213741"
+			(at 143.51 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "eb48b293-4d68-4d50-8e1a-8043b4996193")
 		)
@@ -9770,6 +9779,15 @@
 				(hide yes)
 			)
 		)
+		(property "Digikey" "https://www.digikey.com/en/products/detail/lumex-opto-components-inc/LDS-C814RI/252593"
+			(at 154.94 157.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "2485d928-5b83-4ead-8835-043733ead5d8")
 		)
@@ -9872,6 +9890,15 @@
 			)
 		)
 		(property "stock_idx" "00051 "
+			(at 298.45 181.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Digikey" "https://www.digikey.com/en/products/detail/yageo/RC0805FR-0710KL/727535"
 			(at 298.45 181.61 0)
 			(effects
 				(font
@@ -10025,6 +10052,15 @@
 				(hide yes)
 			)
 		)
+		(property "Digikey" ""
+			(at 179.07 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "5e966862-5db5-4914-9027-d39d3c4bc88a")
 		)
@@ -10096,6 +10132,15 @@
 			)
 		)
 		(property "stock_idx" "00069 "
+			(at 101.6 250.19 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Digikey" "https://www.digikey.com/en/products/detail/mpd-memory-protection-devices/EJ508A/2439547"
 			(at 101.6 250.19 0)
 			(effects
 				(font
@@ -10244,6 +10289,15 @@
 			)
 		)
 		(property "stock_idx" "00044 "
+			(at 166.37 83.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Digikey" "https://www.digikey.com/en/products/detail/c-k/RS-187R05A2-DS-MT-RT/2747186"
 			(at 166.37 83.82 0)
 			(effects
 				(font
@@ -10463,6 +10517,15 @@
 				(hide yes)
 			)
 		)
+		(property "Digikey" "https://www.digikey.com/en/products/detail/yageo/RC0805FR-071KL/727444"
+			(at 289.56 170.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "03e879fa-7b7a-4081-9590-ae7218be1dbd")
 		)
@@ -10532,6 +10595,15 @@
 			)
 		)
 		(property "stock_idx" "00067 "
+			(at 201.93 242.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Digikey" "https://www.digikey.com/en/products/detail/microchip-technology/MIC5366-3-3YC5-TR/1868116 "
 			(at 201.93 242.57 0)
 			(effects
 				(font
@@ -10620,6 +10692,15 @@
 			)
 		)
 		(property "stock_idx" "00011 "
+			(at 132.08 115.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Digikey" "https://www.digikey.com/en/products/detail/samsung-electro-mechanics/CL21B104KBCNFNC/3888102"
 			(at 132.08 115.57 0)
 			(effects
 				(font
@@ -10839,6 +10920,15 @@
 				(hide yes)
 			)
 		)
+		(property "Digikey" "https://www.digikey.com/en/products/detail/yageo/CC0805KRX7R9BB104/302874"
+			(at 107.95 214.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "1c61b908-0b6c-432e-93ff-47e8bfc611c0")
 		)
@@ -10908,6 +10998,15 @@
 			)
 		)
 		(property "stock_idx" "00066 "
+			(at 142.24 242.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Digikey" "https://www.digikey.com/en/products/detail/microchip-technology/MIC5205-5-0YM5-TR/771730 "
 			(at 142.24 242.57 0)
 			(effects
 				(font
@@ -11136,6 +11235,15 @@
 				(hide yes)
 			)
 		)
+		(property "Digikey" "https://www.digikey.com/en/products/detail/samsung-electro-mechanics/CL21B105KAFNNNE/3886724 "
+			(at 161.29 246.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "bd590530-4a8b-403d-b512-1bc314ed5b11")
 		)
@@ -11205,6 +11313,15 @@
 			)
 		)
 		(property "stock_idx" "00065 "
+			(at 271.78 191.77 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Digikey" "https://www.digikey.com/en/products/detail/stackpole-electronics-inc/RMCF0805FT22K1/1760211"
 			(at 271.78 191.77 0)
 			(effects
 				(font
@@ -11292,6 +11409,15 @@
 				(hide yes)
 			)
 		)
+		(property "Digikey" "https://www.digikey.com/en/products/detail/samsung-electro-mechanics/CL21B104KBCNFNC/3888102"
+			(at 157.48 115.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "33571733-6ae1-499f-adb2-d8b8fbb6f278")
 		)
@@ -11363,6 +11489,15 @@
 			)
 		)
 		(property "stock_idx" "00054 "
+			(at 337.82 195.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Digikey" "https://www.digikey.com/en/products/detail/yageo/RC0805FR-07100KL/727544"
 			(at 337.82 195.58 0)
 			(effects
 				(font
@@ -11516,6 +11651,15 @@
 				(hide yes)
 			)
 		)
+		(property "Digikey" "https://www.digikey.com/en/products/detail/yageo/RC0805FR-07100KL/727544"
+			(at 181.61 248.92 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "1b59ac3e-b419-4d54-b580-65d69ba2a2e9")
 		)
@@ -11653,6 +11797,15 @@
 			)
 		)
 		(property "stock_idx" "00050 "
+			(at 204.47 157.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Digikey" "https://www.digikey.com/en/products/detail/lumex-opto-components-inc/LDS-C814RI/252593"
 			(at 204.47 157.48 0)
 			(effects
 				(font
@@ -11839,6 +11992,15 @@
 				(hide yes)
 			)
 		)
+		(property "Digikey" "https://www.digikey.com/en/products/detail/kyocera-avx/F921A105MPA/4005075 "
+			(at 173.99 246.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "b344c74b-dc2c-42ff-a12e-61dad3f51b74")
 		)
@@ -11984,6 +12146,15 @@
 				(hide yes)
 			)
 		)
+		(property "Digikey" "https://www.digikey.com/en/products/detail/yageo/RC0805FR-07100KL/727544"
+			(at 102.87 187.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "b17c6471-5ba5-4f0a-bde9-7c105352ae65")
 		)
@@ -12055,6 +12226,15 @@
 			)
 		)
 		(property "stock_idx" "00039 "
+			(at 119.38 177.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Digikey" "https://www.digikey.com/en/products/detail/analog-devices-inc-maxim-integrated/MAX7219ENG/774127"
 			(at 119.38 177.8 0)
 			(effects
 				(font
@@ -12340,6 +12520,15 @@
 				(hide yes)
 			)
 		)
+		(property "Digikey" "https://www.digikey.com/en/products/detail/yageo/RC0805FR-07100KL/727544"
+			(at 252.73 196.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "1e8055f9-a750-45ed-904a-2e87bbdf2f12")
 		)
@@ -12414,6 +12603,15 @@
 			)
 		)
 		(property "stock_idx" "00040 "
+			(at 335.28 173.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Digikey" "https://www.digikey.com/en/products/detail/onsemi/2N3906BU/1414"
 			(at 335.28 173.99 0)
 			(effects
 				(font
@@ -12636,6 +12834,15 @@
 				(hide yes)
 			)
 		)
+		(property "Digikey" "https://www.digikey.com/en/products/detail/samsung-electro-mechanics/CL21B104KBCNFNC/3888102"
+			(at 144.78 115.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "1de1c162-f175-4acb-8c70-7a4078c3dbd2")
 		)
@@ -12774,6 +12981,15 @@
 			)
 		)
 		(property "stock_idx" "00038 "
+			(at 252.73 185.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Digikey" "https://www.digikey.com/en/products/detail/advanced-photonix/PDV-P9008/480625"
 			(at 252.73 185.42 0)
 			(effects
 				(font
@@ -12930,6 +13146,15 @@
 				(hide yes)
 			)
 		)
+		(property "Digikey" "https://www.digikey.com/en/products/detail/onsemi/2N3904BU/1413"
+			(at 287.02 191.77 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "3"
 			(uuid "6e31fdf6-c897-48ba-b69f-be30018f08c0")
 		)
@@ -13070,6 +13295,15 @@
 			)
 		)
 		(property "stock_idx" "00050 "
+			(at 154.94 194.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Digikey" "https://www.digikey.com/en/products/detail/lumex-opto-components-inc/LDS-C814RI/252593"
 			(at 154.94 194.31 0)
 			(effects
 				(font
@@ -13388,6 +13622,15 @@
 				(hide yes)
 			)
 		)
+		(property "Digikey" "https://www.digikey.com/en/products/detail/kyocera-avx/F921A105MPA/4005075 "
+			(at 118.11 246.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "2bb103d2-0c96-4ac4-82cd-df50724b52e2")
 		)
@@ -13459,6 +13702,15 @@
 			)
 		)
 		(property "stock_idx" "00068 "
+			(at 128.27 246.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Digikey" "https://www.digikey.com/en/products/detail/kyocera-avx/F921A105MPA/4005075 "
 			(at 128.27 246.38 0)
 			(effects
 				(font
@@ -13612,6 +13864,15 @@
 				(hide yes)
 			)
 		)
+		(property "Digikey" "https://www.digikey.com/en/products/detail/adafruit-industries-llc/5187/15194668"
+			(at 242.57 115.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "4"
 			(uuid "1a5dfdf3-66d4-45fa-ba1d-f45aa684ec4a")
 		)
@@ -13692,6 +13953,15 @@
 			)
 		)
 		(property "stock_idx" "00051 "
+			(at 166.37 72.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Digikey" "https://www.digikey.com/en/products/detail/yageo/RC0805FR-0710KL/727535"
 			(at 166.37 72.39 0)
 			(effects
 				(font
@@ -13976,6 +14246,15 @@
 				(hide yes)
 			)
 		)
+		(property "Digikey" ""
+			(at 189.23 242.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "957079f4-21db-4113-92b5-9d6ce5d89104")
 		)
@@ -14187,6 +14466,15 @@
 				(hide yes)
 			)
 		)
+		(property "Digikey" "https://www.digikey.com/en/products/detail/yageo/RC0805FR-07100KL/727544"
+			(at 200.66 115.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "f4890fdb-0686-453a-9045-28f1b62461e8")
 		)
@@ -14257,6 +14545,15 @@
 			)
 		)
 		(property "stock_idx" "00002 "
+			(at 182.88 85.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Digikey" "https://www.digikey.com/en/products/detail/yageo/CC0805KRX7R9BB104/302874"
 			(at 182.88 85.09 0)
 			(effects
 				(font
@@ -14344,6 +14641,15 @@
 				(hide yes)
 			)
 		)
+		(property "Digikey" "https://www.digikey.com/en/products/detail/panasonic-electronic-components/ERJ-6GEYJ512V/46122"
+			(at 210.82 96.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "e91b89de-cafe-44ce-b41c-78747cfbb381")
 		)
@@ -14415,6 +14721,15 @@
 			)
 		)
 		(property "stock_idx" "00050 "
+			(at 204.47 194.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Digikey" "https://www.digikey.com/en/products/detail/lumex-opto-components-inc/LDS-C814RI/252593"
 			(at 204.47 194.31 0)
 			(effects
 				(font
@@ -14733,6 +15048,15 @@
 				(hide yes)
 			)
 		)
+		(property "Digikey" "https://www.digikey.com/en/products/detail/samsung-electro-mechanics/CL21B104KBCNFNC/3888102"
+			(at 171.45 115.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "25d07192-a40c-4d29-8a72-35e82bae0869")
 		)
@@ -14870,6 +15194,15 @@
 			)
 		)
 		(property "stock_idx" "00004 "
+			(at 220.98 246.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Digikey" "https://www.digikey.com/en/products/detail/samsung-electro-mechanics/CL21B105KAFNNNE/3886724 "
 			(at 220.98 246.38 0)
 			(effects
 				(font
@@ -15158,6 +15491,15 @@
 				(hide yes)
 			)
 		)
+		(property "Digikey" "https://www.digikey.com/en/products/detail/onsemi/2N3906BU/1414"
+			(at 313.69 173.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "3"
 			(uuid "0462c565-467f-445d-8b84-ea119d28be7e")
 		)
@@ -15233,6 +15575,15 @@
 			)
 		)
 		(property "stock_idx" "00025 "
+			(at 105.41 87.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Digikey" "https://www.digikey.com/en/products/detail/microchip-technology/ATMEGA328P-AUR/2357086"
 			(at 105.41 87.63 0)
 			(effects
 				(font
@@ -15474,6 +15825,15 @@
 				(hide yes)
 			)
 		)
+		(property "Digikey" ""
+			(at 142.24 48.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "3"
 			(uuid "e088bfb5-4482-4a48-a01b-a5d6d9f0401a")
 		)
@@ -15557,6 +15917,15 @@
 			)
 		)
 		(property "stock_idx" "00001 "
+			(at 95.25 214.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Digikey" "https://www.digikey.com/en/products/detail/samsung-electro-mechanics/CL21A106KOQNNNE/3886754 "
 			(at 95.25 214.63 0)
 			(effects
 				(font
@@ -15710,6 +16079,15 @@
 				(hide yes)
 			)
 		)
+		(property "Digikey" "https://www.digikey.com/en/products/detail/samsung-electro-mechanics/CL21B104KBCNFNC/3888102"
+			(at 185.42 115.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "882274cd-9526-4b16-80d2-a26a7a984301")
 		)
@@ -15847,6 +16225,15 @@
 			)
 		)
 		(property "stock_idx" "00064 "
+			(at 149.86 85.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Digikey" "https://www.digikey.com/en/products/detail/kemet/C0805C180M3HACTU/7949065"
 			(at 149.86 85.09 0)
 			(effects
 				(font
@@ -16000,6 +16387,15 @@
 				(hide yes)
 			)
 		)
+		(property "Digikey" "https://www.digikey.com/en/products/detail/panasonic-electronic-components/ERJ-6GEYJ512V/46122"
+			(at 200.66 96.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "6ebfff85-02a0-4817-978a-c58a4166808f")
 		)
@@ -16071,6 +16467,15 @@
 			)
 		)
 		(property "stock_idx" "00064 "
+			(at 138.43 85.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Digikey" "https://www.digikey.com/en/products/detail/kemet/C0805C180M3HACTU/7949065"
 			(at 138.43 85.09 0)
 			(effects
 				(font
