@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "inv_footprints")(type "KiCad")(uri "${KIPRJMOD}/../../kicad-common-libs/inv_footprints.pretty")(options "")(descr ""))
+)

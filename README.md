@@ -1,5 +1,7 @@
 # CO2-PCB-Monitor
 
+## v1
+
 This repo contains the hardware and software required to manufacture and assemble a small seven segment CO2 monitor.
 
 The monitor is built around a 4 digit seven segment display (with automatic dimming based on ambient light) that displays the current atmospheric CO2 concentration as measured by an Adafruit SCD-40 module over i2c.
@@ -21,3 +23,12 @@ This separation of power supplies was chosen to both allow for a soft startup se
 The final design was manufactured using JLCPCB's services. A BOM is included with this repo, as well as manufacturing files.
 
 The board can be programmed using the Arduino IDE and a separate ISP over the SPI lines.
+
+## v2
+
+Following the success of the first version, I want to make a few changes to ease manufacturing.
+In particular, the design should shift to SMT where possible to enable JLCPCB PCBA.
+
+The SPI and UART headers can be rethought as well to allow for future off-board additions.
+There's value in making a port that an ESP32 or similar SoC can clip into for periodic recording over a network.
+
